@@ -1,6 +1,9 @@
 /* Thinner 2008-style navbar aligned to the left */
 body {
     font-family: Arial, sans-serif;
+      background-image: url('ezgif-5-0c7cc97a41.jpg');
+    background-size: cover; /* Optional: to cover the whole page */
+    background-position: center; /* Optional: to center the image */
   }
   
   .navbar {
